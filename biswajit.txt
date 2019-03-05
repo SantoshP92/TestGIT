@@ -1,0 +1,1 @@
+You are downloading the latest (2.21.0) 64-bit version of Git for Windows. This is the most recent maintained build. It was released 5 days ago, on 2019-02-26. 
